@@ -81,6 +81,8 @@ import org.testng.annotations.BeforeSuite;
 	
 	@AfterSuite
 	public void asConfig() {
+		System.out.println("Rammmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm");	
+		
 	
 	}
 	
