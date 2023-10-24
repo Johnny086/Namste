@@ -83,7 +83,7 @@ import org.testng.annotations.BeforeSuite;
 	public void asConfig() {
 		System.out.println("Rammmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm");	
 		System.out.println("This is Mohan and Sohan");	
-	
+		System.out.println("This is Mohan and Sohan");	
 	}
 	
 }
